@@ -103,13 +103,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/kwasichrappah/Indian_start-up_venture_investment_data_analysis
+  git clone https://github.com/amponsaa329/Indian_start-up_venture_investment_data_analysis
 ```
 
 Change into the cloned repository
 
 ```sh
-  cd Indian_start-up_venture_investment_data_analysis
+  cd Indian_startup_project
   
 ```
 
@@ -148,7 +148,7 @@ To run the project,fork the project
 
 ## 👥 Author <a name="authors"></a>
 
-🕵🏽‍♀️ **Emmanuel Chrappah**
+🕵🏽‍♀️ **Abigail Amponsah**
 
 -  Github:[Profile](https://github.com/kwasichrappah "Emmanuel Chrappah")
 -  Email:[Email](mailto:chrappahkwasi@gmail.com?subject=Hi "Hi!")
