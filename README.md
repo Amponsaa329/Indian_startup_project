@@ -150,10 +150,6 @@ To run the project,fork the project
 
 🕵🏽‍♀️ **Abigail Amponsah**
 
--  Github:[Profile](https://github.com/kwasichrappah "Emmanuel Chrappah")
--  Email:[Email](mailto:chrappahkwasi@gmail.com?subject=Hi "Hi!")
-- Twitter: [Twitter Handle](https://twitter.com/jaychraps)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-chrappah-61115813b/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
